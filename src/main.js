@@ -8,6 +8,7 @@ import FastClick from 'fastclick'
 import VueLazyLoad from 'vue-lazyload'
 
 Vue.config.productionTip = false
+//vscode提交试一试
 
 // 添加事件总线对象
 Vue.prototype.$bus = new Vue()
